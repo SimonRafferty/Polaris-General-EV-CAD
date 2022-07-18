@@ -1,4 +1,4 @@
-# Polaris-General-CAD
+# Polaris-General-EV-CAD
 CAD Models for Motor &amp; Battery Mountings + Laser Cutting
 
 I hope some of this might be useful to you.  Although the models were created for a General, the Electric Motor Mounting frame should be the same for RZR & Ranger XP1000 models.  You'll have to figure out the battery mountings yourself!
